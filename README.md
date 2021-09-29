@@ -1,7 +1,7 @@
 # Starbucks
 
 ## netlify
-https://eager-sinoussi-eb112d.netlify.app/
+https://starbucks-namgyungkim.netlify.app/
 
 ## Use
 - HTML / CSS / JS
